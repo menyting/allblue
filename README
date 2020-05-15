@@ -1,0 +1,9 @@
+All Blue:
+
+Initial Idea:
+- Convert given image into an image into black and white, leaving only places that are blue as colored pixels.
+
+
+Improvements:
+- not all shades of blue are recognized, must find the appropriate threshold
+- can be made more general by adding color as input, convert an image/set of images with given color (green/blue/red)
